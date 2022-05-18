@@ -1,4 +1,3 @@
-/* Elementos del dom */
 import {section_administrador, section_login} from './login.js';
 
 export function adminstrador(){
